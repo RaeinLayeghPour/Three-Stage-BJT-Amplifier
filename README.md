@@ -45,5 +45,5 @@ A fully discrete, three-stage bipolar junction transistor (BJT) amplifier design
 
 Feel free to reach out with questions or collaboration ideas:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/raeinlp)  
-- ✉️ Email: raeen.layegh2017@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/raeinlp)  
+- Email: raeen.layegh2017@gmail.com
